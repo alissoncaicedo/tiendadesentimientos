@@ -1,0 +1,407 @@
+{
+    "Dulces": 
+    [
+      {
+       "id": 1,
+        "nombre": "Chocolatina",
+        "descripcion": "Una deliciosa barra de chocolate con leche",
+        "precio": 1.99,
+        "cantidad": 50,
+        "imagen": "chocolatina.jpg"
+      },
+      {
+        "id": 2,
+        "nombre": "Galletas",
+        "descripcion": "Crujientes galletas de mantequilla",
+        "precio": 2.5,
+        "cantidad": 30,
+        "imagen": "galletas.jpg"
+      },
+      {
+        "id": 3,
+        "nombre": "Caramelos",
+        "descripcion": "Caramelos de sabores variados",
+        "precio": 0.99,
+        "cantidad": 100,
+        "imagen": "caramelos.jpg"
+      },
+      {
+        "id": 4,
+        "nombre": "Pastel de fresa",
+        "descripcion": "Un suave pastel de fresa cubierto con crema",
+        "precio": 15.99,
+        "cantidad": 5,
+        "imagen": "pastel_fresa.jpg"
+      },
+      {
+        "id": 5,
+        "nombre": "Malvaviscos",
+        "descripcion": "Esponjosos malvaviscos cubiertos de azúcar",
+        "precio": 1.5,
+        "cantidad": 20,
+        "imagen": "malvaviscos.jpg"
+      },
+      {
+        "id": 6,
+        "nombre": "Paleta de caramelo",
+        "descripcion": "Paleta grande de caramelo de colores",
+        "precio": 1.25,
+        "cantidad": 40,
+        "imagen": "paleta_caramelo.jpg"
+      },
+      {
+        "id": 7,
+        "nombre": "Chocolate blanco",
+        "descripcion": "Tableta de chocolate blanco cremoso",
+        "precio": 2.99,
+        "cantidad": 15,
+        "imagen": "chocolate_blanco.jpg"
+      },
+      {
+       "id": 8,
+        "nombre": "Chicle",
+        "descripcion": "Chicle de diferentes sabores en envoltorio",
+        "precio": 0.5,
+        "cantidad": 200,
+        "imagen": "chicle.jpg"
+      },
+      {
+        "id": 9,
+        "nombre": "Bombones",
+        "descripcion": "Bombones surtidos de chocolate",
+        "precio": 5.99,
+        "cantidad": 25,
+        "imagen": "bombones.jpg"
+      },
+      {
+        "id": 10,
+        "nombre": "Tarta de manzana",
+        "descripcion": "Deliciosa tarta de manzana recién horneada",
+        "precio": 12.99,
+        "cantidad": 8,
+        "imagen": "tarta_manzana.jpg"
+      },
+      {
+       "id": 11,
+        "nombre": "Gomitas",
+        "descripcion": "Gomitas dulces de diferentes formas y colores",
+        "precio": 1.99,
+        "cantidad": 50,
+        "imagen": "gomitas.jpg"
+      },
+      {
+        "id": 12,
+        "nombre": "Barquillo",
+        "descripcion": "Crujiente barquillo relleno de crema",
+        "precio": 1.75,
+        "cantidad": 30,
+        "imagen": "barquillo.jpg"
+      },
+      {
+        "id": 13,
+        "nombre": "Algodón de azúcar",
+        "descripcion": "Nube de algodón dulce en un palito",
+        "precio": 2.25,
+        "cantidad": 40,
+        "imagen": "algodon_azucar.jpg"
+      },
+      {
+        "id": 14,
+        "nombre": "Mazapán",
+        "descripcion": "Dulce mazapán cubierto de almendras",
+        "precio": 1.99,
+        "cantidad": 20,
+        "imagen": "mazapan.jpg"
+      },
+      {
+        "id": 15,
+        "nombre": "Turrón",
+        "descripcion": "Clásico turrón de almendra",
+        "precio": 3.99,
+        "cantidad": 10,
+        "imagen": "turron.jpg"
+      },
+      {
+        "id": 16,
+        "nombre": "Choco-Crispis",
+        "descripcion": "Cereal de arroz inflado cubierto de chocolate",
+        "precio": 2.25,
+        "cantidad": 15,
+        "imagen": "choco_crispis.jpg"
+      },
+      {
+        "id": 17,
+        "nombre": "Bomba ácida",
+        "descripcion": "Caramelos con relleno ácido",
+        "precio": 0.5,
+        "cantidad": 20,
+        "imagen": "bomba_acida.jpg"
+      },
+      {
+        "id": 18,
+        "nombre": "Pastilla de menta",
+        "descripcion": "Pastilla refrescante de menta",
+        "precio": 0.3,
+        "cantidad": 40,
+        "imagen": "pastilla_menta.jpg"
+      },
+      {
+        "id": 19,
+        "nombre": "Tableta de chocolate",
+        "descripcion": "Tableta de chocolate negro",
+        "precio": 2.5,
+        "cantidad": 12,
+        "imagen": "tableta_chocolate.jpg"
+      },
+      {
+        "id": 20,
+        "nombre": "Caramelo de frutas",
+        "descripcion": "Caramelos de sabores frutales",
+        "precio": 0.25,
+        "cantidad": 30,
+        "imagen": "caramelo_frutas.jpg"
+      },
+      {
+        "id": 21,
+        "nombre": "Regaliz",
+        "descripcion": "Tubo de regaliz rojo",
+        "precio": 0.5,
+        "cantidad": 15,
+        "imagen": "regaliz.jpg"
+      },
+      {
+        "id": 22,
+        "nombre": "Barra de caramelo",
+        "descripcion": "Barra de caramelo cubierta de chocolate",
+        "precio": 1.0,
+        "cantidad": 20,
+        "imagen": "barra_caramelo.jpg"
+      },
+      {
+        "id": 23,
+        "nombre": "Caramelo de menta",
+        "descripcion": "Refrescante caramelo de menta",
+        "precio": 0.5,
+        "cantidad": 25,
+        "imagen": "caramelo_menta.jpg"
+      },
+      {
+        "id": 24,
+        "nombre": "Paleta",
+        "descripcion": "Paleta de caramelo",
+        "precio": 0.75,
+        "cantidad": 30,
+        "imagen": "paleta.jpg"
+      },
+      {
+        "id": 25,
+        "nombre": "Chocolate con leche",
+        "descripcion": "Delicioso chocolate con leche suave y cremoso",
+        "precio": 1.99,
+        "cantidad": 20,
+        "imagen": "chocolate_leche.jpg"
+      },
+      {
+        "id": 26,
+        "nombre": "Chocolate negro",
+        "descripcion": "Intenso chocolate negro con alto contenido de cacao",
+        "precio": 2.49,
+        "cantidad": 15,
+        "imagen": "chocolate_negro.jpg"
+      },
+      {
+        "id": 27,
+        "nombre": "Chocolate blanco",
+        "descripcion": "Dulce chocolate blanco con suave sabor a vainilla",
+        "precio": 1.75,
+        "cantidad": 30,
+        "imagen": "chocolate_blanco.jpg"
+      },
+      {
+        "id": 28,
+        "nombre": "Chocolate con avellanas",
+        "descripcion": "Chocolate con leche con trozos de avellanas",
+        "precio": 2.99,
+        "cantidad": 25,
+        "imagen": "chocolate_avellanas.jpg"
+      },
+      {
+        "id": 29,
+        "nombre": "Chocolate con almendras",
+        "descripcion": "Chocolate negro con trozos de almendras crujientes",
+        "precio": 2.75,
+        "cantidad": 30,
+        "imagen": "chocolate_almendras.jpg"
+      },
+      {
+        "id": 30,
+        "nombre": "Chocolate con caramelo",
+        "descripcion": "Chocolate con leche con relleno de caramelo suave",
+        "precio": 2.25,
+        "cantidad": 18,
+        "imagen": "chocolate_caramelo.jpg"
+      },
+      {
+        "id": 31,
+        "nombre": "Chocolate con menta",
+        "descripcion": "Chocolate negro con sabor refrescante a menta",
+        "precio": 2.49,
+        "cantidad": 20,
+        "imagen": "chocolate_menta.jpg"
+      },
+      {
+        "id": 32,
+        "nombre": "Chocolate con naranja",
+        "descripcion": "Chocolate negro con toques de naranja cítrica",
+        "precio": 2.49,
+        "cantidad": 15,
+        "imagen": "chocolate_naranja.jpg"
+      },
+      {
+        "id": 33,
+        "nombre": "Chocolate con fresas",
+        "descripcion": "Chocolate blanco con trozos de fresas deshidratadas",
+        "precio": 2.99,
+        "cantidad": 25,
+        "imagen": "chocolate_fresas.jpg"
+      },
+      {
+        "id": 34,
+        "nombre": "Chocolate con caramelo salado",
+        "descripcion": "Chocolate con leche con relleno de caramelo salado",
+        "precio": 2.75,
+        "cantidad": 20,
+        "imagen": "chocolate_caramelo_salado.jpg"
+      },
+      {
+        "id": 35,
+        "nombre": "Chocolate con avellanas y pasas",
+        "descripcion": "Chocolate negro con avellanas y pasas jugosas",
+        "precio": 3.25,
+        "cantidad": 22,
+        "imagen": "chocolate_avellanas_pasas.jpg"
+      },
+      {
+        "id": 36,
+        "nombre": "Chocolate con cerezas",
+        "descripcion": "Chocolate negro con trozos de cerezas confitadas",
+        "precio": 2.99,
+        "cantidad": 18,
+        "imagen": "chocolate_cerezas.jpg"
+      },
+      {
+        "id": 37,
+        "nombre": "Chocolate con coco",
+        "descripcion": "Chocolate con leche con trozos de coco rallado",
+        "precio": 2.49,
+        "cantidad": 25,
+        "imagen": "chocolate_coco.jpg"
+      },
+      {
+        "id": 38,
+        "nombre": "Chocolate con café",
+        "descripcion": "Chocolate negro con sabor intenso a café",
+        "precio": 2.49,
+        "cantidad": 15,
+        "imagen": "chocolate_cafe.jpg"
+      },
+      {
+        "id": 39,
+        "nombre": "Chocolate con pistachos",
+        "descripcion": "Chocolate con leche con trozos de pistachos",
+        "precio": 3.49,
+        "cantidad": 20,
+        "imagen": "chocolate_pistachos.jpg"
+      },
+      {
+        "id": 40,
+        "nombre": "Gomitas ácidas",
+        "descripcion": "Gomitas de sabores ácidos y frutales",
+        "precio": 1.99,
+        "cantidad": 20,
+        "imagen": "gomitas_acidas.jpg"
+      },
+      {
+        "id": 41,
+        "nombre": "Caramelos ácidos",
+        "descripcion": "Caramelos con recubrimiento ácido y sabores variados",
+        "precio": 1.49,
+        "cantidad": 15,
+        "imagen": "caramelos_acidos.jpg"
+      },
+      {
+        "id": 42,
+        "nombre": "Pulpa de tamarindo",
+        "descripcion": "Dulce pulpa de tamarindo con un toque ácido",
+        "precio": 1.75,
+        "cantidad": 30,
+        "imagen": "pulpa_tamarindo.jpg"
+      },
+      {
+        "id": 43,
+        "nombre": "Paletas ácidas",
+        "descripcion": "Paletas de caramelo con relleno líquido ácido",
+        "precio": 2.99,
+        "cantidad": 25,
+        "imagen": "paletas_acidas.jpg"
+      },
+      {
+        "id": 44,
+        "nombre": "Polvo ácido",
+        "descripcion": "Polvo en sobre con sabor ácido para chupar",
+        "precio": 0.99,
+        "cantidad": 30,
+        "imagen": "polvo_acido.jpg"
+      },
+      {
+        "id": 45,
+        "nombre": "Cintas de regaliz ácido",
+        "descripcion": "Regaliz en forma de cintas con sabor ácido",
+        "precio": 2.25,
+        "cantidad": 18,
+        "imagen": "cintas_regaliz_acido.jpg"
+      },
+      {
+        "id": 46,
+        "nombre": "Caramelos masticables ácidos",
+        "descripcion": "Caramelos masticables con sabor ácido",
+        "precio": 2.49,
+        "cantidad": 20,
+        "imagen": "caramelos_masticables_acidos.jpg"
+      },
+      {
+        "id": 47,
+        "nombre": "Chicles ácidos",
+        "descripcion": "Chicles con sabor a frutas ácidas",
+        "precio": 2.49,
+        "cantidad": 15,
+        "imagen": "chicles_acidos.jpg"
+      },
+      {
+        "id": 48,
+        "nombre": "Tiras de sandía ácida",
+        "descripcion": "Tiras de gelatina con sabor ácido de sandía",
+        "precio": 1.99,
+        "cantidad": 25,
+        "imagen": "tiras_sandia_acida.jpg"
+      },
+      {
+        "id": 49,
+        "nombre": "Tamarindos enchilados",
+        "descripcion": "Tamarindos cubiertos de chile y con sabor ácido",
+        "precio": 2.75,
+        "cantidad": 20,
+        "imagen": "tamarindos_enchilados.jpg"
+      },
+      {
+        "id": 50,
+        "nombre": "Gotas ácidas",
+        "descripcion": "Gotas de azúcar ácida en diferentes sabores",
+        "precio": 1.49,
+        "cantidad": 22,
+        "imagen": "gotas_acidas.jpg"
+      }
+    ]
+}
+  
+  
