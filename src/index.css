@@ -1,1 +1,35 @@
-
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-size: 17px;
+    letter-spacing: 0.3px;
+    color: black;
+}
+a:hover{
+    background-color: rgb(128, 128, 213);
+    padding: 15px;
+    border-radius: 5%;
+}
+a{
+    margin: 20px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+    padding: 40px;
+    border-radius: 10%;
+}
+.btn-nav{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+}
+.nav{
+    display: flex;
+    justify-content: center;
+    background-color: blueviolet;
+    width: 30%;
+    height: 990px;
+    
+}
