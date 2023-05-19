@@ -1,0 +1,419 @@
+
+    [
+      {
+        "id": 1,
+        "nombre": "Mickey Mouse",
+        "personaje": "Mickey Mouse",
+        "pelicula": "Steamboat Willie",
+        "tamaño": "mediano",
+        "material": "felpa"
+      },
+      {
+        "id": 2,
+        "nombre": "Minnie Mouse",
+        "personaje": "Minnie Mouse",
+        "pelicula": "Fantasia",
+        "tamaño": "pequeño",
+        "material": "algodón"
+      },
+      {
+        "id": 3,
+        "nombre": "Donald Duck",
+        "personaje": "Donald Duck",
+        "pelicula": "The Wise Little Hen",
+        "tamaño": "grande",
+        "material": "felpa"
+      },
+      {
+        "id": 4,
+        "nombre": "Daisy Duck",
+        "personaje": "Daisy Duck",
+        "pelicula": "Mr. Duck Steps Out",
+        "tamaño": "pequeño",
+        "material": "algodón"
+      },
+      {
+        "id": 5,
+        "nombre": "Goofy",
+        "personaje": "Goofy",
+        "pelicula": "Orphan's Benefit",
+        "tamaño": "mediano",
+        "material": "felpa"
+      },
+      {
+        "id": 6,
+        "nombre": "Pluto",
+        "personaje": "Pluto",
+        "pelicula": "The Chain Gang",
+        "tamaño": "pequeño",
+        "material": "algodón"
+      },
+      {
+        "id": 7,
+        "nombre": "Mufasa",
+        "personaje": "Mufasa",
+        "pelicula": "The Lion King",
+        "tamaño": "grande",
+        "material": "felpa"
+      },
+      {
+        "id": 8,
+        "nombre": "Simba",
+        "personaje": "Simba",
+        "pelicula": "The Lion King",
+        "tamaño": "mediano",
+        "material": "felpa"
+      },
+      {
+        "id": 9,
+        "nombre": "Nala",
+        "personaje": "Nala",
+        "pelicula": "The Lion King",
+        "tamaño": "pequeño",
+        "material": "algodón"
+      },
+      {
+        "id": 10,
+        "nombre": "Buzz Lightyear",
+        "personaje": "Buzz Lightyear",
+        "pelicula": "Toy Story",
+        "tamaño": "grande",
+        "material": "felpa"
+      },
+      {
+        "id": 11,
+        "nombre": "Woody",
+        "personaje": "Woody",
+        "pelicula": "Toy Story",
+        "tamaño": "mediano",
+        "material": "felpa"
+      },
+      {
+        "id": 12,
+        "nombre": "Jessie",
+        "personaje": "Jessie",
+        "pelicula": "Toy Story 2",
+        "tamaño": "pequeño",
+        "material": "algodón"
+      },
+      {
+        "id": 13,
+        "nombre": "Ariel",
+        "personaje": "Ariel",
+        "pelicula": "The Little Mermaid",
+        "tamaño": "mediano",
+        "material": "felpa"
+      },
+      {
+        "id": 14,
+        "nombre": "Belle",
+        "personaje": "Belle",
+        "pelicula": "Beauty and the Beast",
+        "tamaño": "pequeño",
+        "material": "algodón"
+      },
+      {
+        "id": 15,
+        "nombre": "Cinderella",
+        "personaje": "Cinderella",
+        "pelicula": "Cinderella",
+        "tamaño": "grande",
+        "material": "felpa"
+      },
+      {
+        "id": 16,
+        "nombre": "Oso Polar",
+        "especie": "Oso",
+        "color": "blanco",
+        "tamaño": "mediano",
+        "material": "felpa"
+      },
+      {
+        "id": 17,
+        "nombre": "León",
+        "especie": "Felino",
+        "color": "amarillo",
+        "tamaño": "grande",
+        "material": "felpa"
+      },
+      {
+        "id": 18,
+        "nombre": "Elefante",
+        "especie": "Elefante",
+        "color": "gris",
+        "tamaño": "grande",
+        "material": "algodón"
+      },
+      {
+        "id": 19,
+        "nombre": "Panda",
+        "especie": "Oso",
+        "color": "blanco y negro",
+        "tamaño": "mediano",
+        "material": "felpa"
+      },
+      {
+        "id": 20,
+        "nombre": "Jirafa",
+        "especie": "Jirafa",
+        "color": "amarillo y marrón",
+        "tamaño": "grande",
+        "material": "algodón"
+      },
+      {
+        "id": 21,
+        "nombre": "Tigre",
+        "especie": "Felino",
+        "color": "naranja y negro",
+        "tamaño": "mediano",
+        "material": "felpa"
+      },
+      {
+        "id": 22,
+        "nombre": "Cebra",
+        "especie": "Cebra",
+        "color": "blanco y negro",
+        "tamaño": "mediano",
+        "material": "felpa"
+      },
+      {
+        "id": 23,
+        "nombre": "Canguro",
+        "especie": "Canguro",
+        "color": "marrón",
+        "tamaño": "pequeño",
+        "material": "algodón"
+      },
+      {
+        "id": 24,
+        "nombre": "Perrito",
+        "especie": "Perro",
+        "color": "marrón",
+        "tamaño": "pequeño",
+        "material": "felpa"
+      },
+      {
+        "id": 25,
+        "nombre": "Gato",
+        "especie": "Gato",
+        "color": "gris",
+        "tamaño": "pequeño",
+        "material": "felpa"
+      },
+      {
+        "id": 26,
+        "nombre": "Oso Grizzly",
+        "especie": "Oso",
+        "color": "marrón",
+        "tamaño": "grande",
+        "material": "algodón"
+      },
+      {
+        "id": 27,
+        "nombre": "Conejo",
+        "especie": "Conejo",
+        "color": "blanco",
+        "tamaño": "pequeño",
+        "material": "felpa"
+      },
+      {
+        "id": 27,
+        "nombre": "Hipopótamo",
+        "especie": "Hipopótamo",
+        "color": "gris",
+        "tamaño": "mediano",
+        "material": "algodón"
+      },
+      {
+        "id": 28,
+        "nombre": "Pájaro",
+        "especie": "Pájaro",
+        "color": "multicolor",
+        "tamaño": "pequeño",
+        "material": "felpa"
+      },
+      {
+        "id": 29,
+        "nombre": "Ratón",
+        "especie": "Ratón",
+        "color": "gris",
+        "tamaño": "pequeño",
+        "material": "felpa"
+      },
+      {
+        "id": 30,
+        "nombre": "Oso Polar",
+        "especie": "Oso",
+        "color": "blanco",
+        "tamaño": "mediano",
+        "material": "felpa"
+      },
+      {
+        "id": 31,
+        "nombre": "León",
+        "especie": "Felino",
+        "color": "amarillo",
+        "tamaño": "grande",
+        "material": "felpa"
+      },
+      {
+        "id": 32,
+        "nombre": "Elefante",
+        "especie": "Elefante",
+        "color": "gris",
+        "tamaño": "grande",
+        "material": "algodón"
+      },
+      {
+        "id": 33,
+        "nombre": "Panda",
+        "especie": "Oso",
+        "color": "blanco y negro",
+        "tamaño": "mediano",
+        "material": "felpa"
+      },
+      {
+        "id": 34,
+        "nombre": "Jirafa",
+        "especie": "Jirafa",
+        "color": "amarillo y marrón",
+        "tamaño": "grande",
+        "material": "algodón"
+      },
+      {
+        "id": 35,
+        "nombre": "Tigre",
+        "especie": "Felino",
+        "color": "naranja y negro",
+        "tamaño": "mediano",
+        "material": "felpa"
+      },
+      {
+        "id": 36,
+        "nombre": "Cebra",
+        "especie": "Cebra",
+        "color": "blanco y negro",
+        "tamaño": "mediano",
+        "material": "felpa"
+      },
+      {
+        "id": 37,
+        "nombre": "Canguro",
+        "especie": "Canguro",
+        "color": "marrón",
+        "tamaño": "pequeño",
+        "material": "algodón"
+      },
+      {
+        "id": 38,
+        "nombre": "Perrito",
+        "especie": "Perro",
+        "color": "marrón",
+        "tamaño": "pequeño",
+        "material": "felpa"
+      },
+      {
+        "id": 39,
+        "nombre": "Gato",
+        "especie": "Gato",
+        "color": "gris",
+        "tamaño": "pequeño",
+        "material": "felpa"
+      },
+      {
+        "id": 40,
+        "nombre": "Oso Grizzly",
+        "especie": "Oso",
+        "color": "marrón",
+        "tamaño": "grande",
+        "material": "algodón"
+      },
+      {
+        "id": 41,
+        "nombre": "Conejo",
+        "especie": "Conejo",
+        "color": "blanco",
+        "tamaño": "pequeño",
+        "material": "felpa"
+      },
+      {
+        "id": 42,
+        "nombre": "Hipopótamo",
+        "especie": "Hipopótamo",
+        "color": "gris",
+        "tamaño": "mediano",
+        "material": "algodón"
+      },
+      {
+        "id": 43,
+        "nombre": "Pájaro",
+        "especie": "Pájaro",
+        "color": "multicolor",
+        "tamaño": "pequeño",
+        "material": "felpa"
+      },
+      {
+        "id": 44,
+        "nombre": "Ratón",
+        "especie": "Ratón",
+        "color": "gris",
+        "tamaño": "pequeño",
+        "material": "felpa"
+      },
+      {
+        "id": 45,
+        "nombre": "Totoro",
+        "pelicula": "Mi Vecino Totoro",
+        "especie": "Espíritu del Bosque",
+        "color": "gris",
+        "tamaño": "grande",
+        "material": "felpa"
+      },
+      {
+        "id": 46,
+        "nombre": "Jiji",
+        "pelicula": "Kiki's Delivery Service",
+        "especie": "Gato Negro",
+        "color": "negro",
+        "tamaño": "pequeño",
+        "material": "felpa"
+      },
+      {
+        "id": 47,
+        "nombre": "Haku",
+        "pelicula": "El Viaje de Chihiro",
+        "especie": "Dragón del Río",
+        "color": "blanco",
+        "tamaño": "mediano",
+        "material": "algodón"
+      },
+      {
+        "id": 48,
+        "nombre": "No Face",
+        "pelicula": "El Viaje de Chihiro",
+        "especie": "Espíritu Sin Rostro",
+        "color": "negro",
+        "tamaño": "grande",
+        "material": "felpa"
+      },
+      {
+        "id": 49,
+        "nombre": "Barón",
+        "pelicula": "Susurros del Corazón",
+        "especie": "Gato Estatua",
+        "color": "blanco",
+        "tamaño": "mediano",
+        "material": "felpa"
+      },
+      {
+        "id": 50,
+        "nombre": "Calcifer",
+        "pelicula": "El Castillo Ambulante",
+        "especie": "Demonio de Fuego",
+        "color": "naranja",
+        "tamaño": "pequeño",
+        "material": "felpa"
+      }
+    ]
+
+  
