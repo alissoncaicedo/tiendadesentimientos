@@ -15,7 +15,9 @@ const Peluches = () => {
 
                 <section className="card"  key={peluche.id}>
                     <img className="img-card" src="https://acortar.link/jFSmWU"/>
+                    <section className="titulo-card">
                     <h1>{peluche.nombre}</h1>
+                    </section>
                     <p>{peluche.personaje}</p>
                     <p>{peluche.pelicula}</p>
                     <p>{peluche.tamaño}</p>
@@ -27,6 +29,7 @@ const Peluches = () => {
                 ))
                 }
             </section>
+           
 
         </section>
     )
